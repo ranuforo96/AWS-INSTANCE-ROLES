@@ -19,3 +19,7 @@ Version command:
 
 <img width="955" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1600997-96d3-4704-ab8c-a77f92abcc27" />
 
+List users command:
+
+<img width="965" height="1080" alt="image" src="https://github.com/user-attachments/assets/08d713b3-03ad-4f18-a217-d97aaf3b9dfb" />
+

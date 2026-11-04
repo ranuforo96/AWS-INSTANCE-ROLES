@@ -23,3 +23,9 @@ List users command:
 
 <img width="967" height="1080" alt="image" src="https://github.com/user-attachments/assets/9421d5fe-8ddc-4ed9-a9d8-3044be8f5c3a" />
 
+Running the list users command fails because the required credentials are missing. The error message then prompts you to run: aws login, in order to configure said credentials. However, this also fails because it attempts to launch a web browser on an EC2 instance operating without a GUI
+
+<img width="961" height="1080" alt="image" src="https://github.com/user-attachments/assets/9964255a-7778-449b-9def-c7bf093bde60" />
+
+Resolution: Assign an IAM role to the EC2 instance to manage permissions automatically
+

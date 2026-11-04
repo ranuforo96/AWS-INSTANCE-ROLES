@@ -21,5 +21,5 @@ Version command:
 
 List users command:
 
-<img width="965" height="1080" alt="image" src="https://github.com/user-attachments/assets/08d713b3-03ad-4f18-a217-d97aaf3b9dfb" />
+<img width="967" height="1080" alt="image" src="https://github.com/user-attachments/assets/9421d5fe-8ddc-4ed9-a9d8-3044be8f5c3a" />
 

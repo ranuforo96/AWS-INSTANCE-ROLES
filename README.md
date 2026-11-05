@@ -67,3 +67,7 @@ The command now executes. However, in contrast, if we remove the permission from
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/1be86652-51b8-4afd-9f1d-dff44c70b621" />
 
+Error message due to permission removal:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2859e94c-e6f9-4d73-8d9b-38e73c69133b" />
+

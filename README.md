@@ -58,3 +58,10 @@ Click Update IAM role to apply the changes
 The role has now been successfully attached to the EC2
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/5ff2fd70-ddb2-439a-bc36-8726a099ce07" />
+
+To verify the changes were made, I can simply type the list command I tried running previously in the Amazon Linux 2023
+
+<img width="967" height="1080" alt="image" src="https://github.com/user-attachments/assets/253b0b03-a710-44e4-bc33-46168e34ae57" />
+
+The command now executes
+

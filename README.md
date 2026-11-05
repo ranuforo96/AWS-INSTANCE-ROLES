@@ -72,3 +72,15 @@ The command now executes. However, in contrast, if we remove the permission from
 Error message due to permission removal:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7a1c487-620f-4c52-83c9-574147bb6e2a" />
+
+Reassigning the permission policy back to the Role attached to the EC2:
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/fe8b476f-7142-49e1-8ecd-a8d7f2cd6aa3" />
+
+<img width="1024" height="550" alt="image" src="https://github.com/user-attachments/assets/af60efdd-4230-4d23-8357-d8f33d403c0a" />
+
+Search for and select the permission, then right-click Add Permissions
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f49ca6b3-e4e9-4ff4-bad6-b19abf41fb8e" />
+
+Permission has been successfully re-added, and you can continue running IAM controls

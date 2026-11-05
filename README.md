@@ -84,3 +84,7 @@ Search for and select the permission, then right-click Add Permissions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f49ca6b3-e4e9-4ff4-bad6-b19abf41fb8e" />
 
 Permission has been successfully re-added, and you can continue running IAM controls
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/866047f1-a872-4fac-96f8-bba6f561e0ce" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/406c084a-4132-40e0-b927-9005c14195ef" />

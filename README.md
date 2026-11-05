@@ -63,8 +63,6 @@ To verify the changes were made, I can simply type the list command I tried runn
 
 <img width="967" height="1080" alt="image" src="https://github.com/user-attachments/assets/253b0b03-a710-44e4-bc33-46168e34ae57" />
 
-The command now executes
-
-However in contrast if we remove the permission from the IAM role accessed will again be revoked
+The command now executes. However, in contrast, if we remove the permission from the IAM role, access will again be revoked
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5235d5d8-0ad9-4dee-b208-224246a562b7" />

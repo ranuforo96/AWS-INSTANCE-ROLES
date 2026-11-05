@@ -57,4 +57,4 @@ Click Update IAM role to apply the changes
 
 The role has now been successfully attached to the EC2
 
-<img width="962" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aadfea7-d0c8-4488-9c46-3bfdadccc798" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/5ff2fd70-ddb2-439a-bc36-8726a099ce07" />

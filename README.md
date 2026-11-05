@@ -47,7 +47,7 @@ Next, click the Actions dropdown menu at the top right, hover over Security, and
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8566de4f-c584-4e54-9955-5885852d375f" />
 
-Choose your desired IAM role from the IAM role dropdown list: DemoRoleForEC2
+Choose your desired IAM role from the IAM role dropdown list: DemoRoleForEC2. This role has IAMReadOnlyAccess permissions 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad838d46-eb06-4926-a2e6-86c897765ee5" />
 
@@ -65,6 +65,6 @@ To verify the changes were made, I can simply type the list command I tried runn
 
 The command now executes
 
-(Finish later)-------------------
+However in contrast if we remove the permission from the IAM role accessed will again be revoked
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5235d5d8-0ad9-4dee-b208-224246a562b7" />

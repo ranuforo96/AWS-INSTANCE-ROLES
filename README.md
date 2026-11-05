@@ -29,3 +29,32 @@ Running the list users command fails because the required credentials are missin
 
 Resolution: Assign an IAM role to the EC2 instance to manage permissions automatically
 
+We do this by first opening the Amazon EC2 Console
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07676eb8-f3d2-4791-966d-1099211f2a24" />
+
+In the left navigation pane, select Instances
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ef92cde-5ddb-4e13-9e3b-ed5d303edb90" />
+
+Select your target EC2 instance from the list: My First EC2
+
+Before moving forward, I would like to highlight that there is currently no role assigned to the EC2
+
+<img width="1024" height="495" alt="image" src="https://github.com/user-attachments/assets/d8e92198-e5b1-4963-b8b6-8b9c3fd43e12" />
+
+Next, click the Actions dropdown menu at the top right, hover over Security, and select Modify IAM role
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8566de4f-c584-4e54-9955-5885852d375f" />
+
+Choose your desired IAM role from the IAM role dropdown list: DemoRoleForEC2
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad838d46-eb06-4926-a2e6-86c897765ee5" />
+
+Click Update IAM role to apply the changes
+
+<img width="909" height="1024" alt="image" src="https://github.com/user-attachments/assets/e87bb3b7-3aa1-4935-8824-5770826d0712" />
+
+The role has now been successfully attached to the EC2
+
+<img width="962" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aadfea7-d0c8-4488-9c46-3bfdadccc798" />

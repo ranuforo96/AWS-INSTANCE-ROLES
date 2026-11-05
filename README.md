@@ -65,4 +65,5 @@ To verify the changes were made, I can simply type the list command I tried runn
 
 The command now executes. However, in contrast, if we remove the permission from the IAM role, access will again be revoked
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5235d5d8-0ad9-4dee-b208-224246a562b7" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/1be86652-51b8-4afd-9f1d-dff44c70b621" />
+
